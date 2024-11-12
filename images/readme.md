@@ -1,0 +1,1 @@
+Images for Snowflake notebooks
